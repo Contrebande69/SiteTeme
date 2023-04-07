@@ -1,0 +1,37 @@
+p {
+  color:white;
+  text-align: center;
+}
+
+.global{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.droite{
+    margin-top: 10%;
+    margin-right:10%;
+    margin-left:auto;
+}
+
+.gauche{
+    margin-top: 0%;
+    margin-left:0%;
+    margin-right:auto;
+}
+
+img{
+    width: 66%;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color:whitesmoke;
+  font-size: 60px;
+  text-align: center;
+}
